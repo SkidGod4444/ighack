@@ -45,7 +45,7 @@ rm torrc >/dev/null 2>&1
 cd $HOME/ighack >/dev/null 2>&1
 mv torrc /data/data/com.termux/files/usr/etc/tor >/dev/null 2>&1
 center "FINALIZING ALL PROCESS"
-echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
+echo -e "\e[91m              SUBSCRIBE\e[93m SkidGod4444\e[92m"
 center "[X]COMPLETED SUCCESSFULLY[X]"
 am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
 rm setup
